@@ -2,7 +2,7 @@
   "name": "checklist-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/anonlatte/TODO-React",
+  "homepage": "https://anonlatte.github.io/TODO-React",
   "dependencies": {
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
